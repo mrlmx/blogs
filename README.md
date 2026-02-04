@@ -1,6 +1,10 @@
 # blogs
 limingxin's blogs
 
+## 好记性 ⭐️
+
+- [macOS 如何查看本地 IP 与公网 IP？](https://github.com/mrlmx/blogs/issues/5) - 2026-02-04
+
 ## ⭐️ 路历程
 
 - [如何在 antd Table 的选择框中添加 Tooltip？](https://github.com/mrlmx/blogs/issues/1) - 2022-05-11
